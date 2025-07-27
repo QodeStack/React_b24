@@ -1,0 +1,1 @@
+<h1>Training react vite</h1>
